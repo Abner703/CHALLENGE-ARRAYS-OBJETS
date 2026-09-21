@@ -9,3 +9,9 @@ const products = [
         price:25,
         category:"Accessory"
     },
+    {
+        name:"Keyboard",
+        price:50,
+        category:"Accessory"
+    }
+]
