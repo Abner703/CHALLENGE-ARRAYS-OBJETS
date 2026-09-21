@@ -17,4 +17,5 @@ const products = [
 ]
 
 console.log(products[0].name)
+console.log(products[1].price)
 
