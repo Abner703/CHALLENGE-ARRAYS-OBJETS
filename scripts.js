@@ -22,3 +22,4 @@ products[2].price = 60
 products[0].stock = 10
 
 console.log(products[0].stock )
+console.log(products.length)
