@@ -19,3 +19,6 @@ const products = [
 console.log(products[0].name)
 console.log(products[1].price)
 products[2].price = 60
+products[0].stock = 10
+
+
