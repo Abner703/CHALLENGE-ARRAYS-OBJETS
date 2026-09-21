@@ -15,3 +15,6 @@ const products = [
         category:"Accessory"
     }
 ]
+
+console.log(products[0].name)
+
